@@ -11,5 +11,5 @@ THe project delves into insights and patterns through SQL data analysis. Two dat
 
 [Project 3 - Tableau Projects](https://public.tableau.com/app/profile/andr.co.lho)
 Tableau Gallery showcasing my interactive Dashboards. 
-The [Public Tableau Profile](https://public.tableau.com/app/profile/andr.co.lho) includes a [presentation](https://public.tableau.com/app/profile/andr.co.lho/viz/GreenEnergyPresentation/GreenEnergyPresentation) and a [dashboard](https://public.tableau.com/app/profile/andr.co.lho/viz/GreenEnergyDashboard_16901749035430/Best-WorstGreenEnergyCountries) related to the project 2
+The [Public Tableau Profile](https://public.tableau.com/app/profile/andr.co.lho) includes a [presentation](https://public.tableau.com/app/profile/andr.co.lho/viz/GreenEnergyPresentation/GreenEnergyPresentation) and a [dashboard](https://public.tableau.com/app/profile/andr.co.lho/viz/GreenEnergyDashboard_16901749035430/Best-WorstGreenEnergyCountries) related to the [project 2](https://github.com/andreluizcoelho/andrecoelhoporfolio/blob/main/greenenergysqlproject.sql)
 
