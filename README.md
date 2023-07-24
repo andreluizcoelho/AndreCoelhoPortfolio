@@ -1,4 +1,4 @@
-My [portfolio website](https://andreluizcoelho.github.io/andrecoelhoporfolio/)
+[Portfolio website](https://andreluizcoelho.github.io/andrecoelhoporfolio/)
 
 
 This repository contains the files related to the portfolio website. 
