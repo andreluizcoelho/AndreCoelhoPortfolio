@@ -14,4 +14,6 @@ Explore my interactive dashboards in the Tableau Gallery. The [Public Tableau Pr
 Project 4 - Excel-Based Analysis of Canadian Provincial Rent by Unit Type
 This Excel-based project provides a comprehensive analysis of rental prices across various Canadian provinces. The [excel file](https://github.com/andreluizcoelho/andrecoelhoportfolio/blob/main/excelprojectportfolio_rentincanada.xlsx) provides an interesting Dashboard related to Canadian Provincial Rent by Unit Type. The data comes from [Statistics Canada](https://open.canada.ca/data/en/dataset/18b0c898-393f-4465-bb2a-31c922ad4d86).   
 
+Project 5 - Physical Activity & Noncommunicable Disease Profiles by Country. This [project](https://github.com/andreluizcoelho/andrecoelhoportfolio/blob/main/WHO%20Physical%20Activity%202022%20-%20Country%20Profile%20Portfolio%20Project.pbix) was created using PowerBI and is based on data from the [World Health Organizations (WHO)](https://www.kaggle.com/datasets/yingwoowang/who-physical-activity-country-profile-2022). It provides comprehensive data on physical inactivity and noncommunicable diseases for various countries, along with additional information for the year 2022.  
+
 Feel free to explore the projects in more detail by visiting my [portfolio website](https://andreluizcoelho.github.io/andrecoelhoportfolio/). Thank you for stopping by!
